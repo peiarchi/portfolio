@@ -10,7 +10,14 @@ sections:
   templates:
   - settings
 - type: directory
-  path: portfolio/works
+  path: portfolio/graphic
+  label: 平面
+  create: all
+  match: "**/*"
+  templates:
+  - works
+- type: directory
+  path: portfolio/arch
   label: 建築
   create: all
   match: "**/*"
