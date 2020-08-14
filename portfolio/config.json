@@ -6,16 +6,16 @@
   "favicon": "favicon-32x32.png",
   "navigation": [
     {
+      "text": "建築",
+      "link": "/",
+      "position": "left",
+      "external": false
+    },
+    {
       "text": "平面",
       "link": "",
       "position": "right",
       "external": true
-    },
-    {
-      "text": "Works",
-      "link": "/",
-      "position": "left",
-      "external": false
     },
     {
       "text": "Contact",
