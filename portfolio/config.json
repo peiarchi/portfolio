@@ -15,7 +15,7 @@
       "text": "平面",
       "link": "/",
       "position": "left",
-      "external": true
+      "external": false
     },
     {
       "text": "Contact",
