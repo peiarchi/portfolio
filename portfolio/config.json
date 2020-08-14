@@ -6,6 +6,12 @@
   "favicon": "favicon-32x32.png",
   "navigation": [
     {
+      "text": "平面",
+      "link": "",
+      "position": "right",
+      "external": true
+    },
+    {
       "text": "Works",
       "link": "/",
       "position": "left",
