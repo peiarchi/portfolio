@@ -7,13 +7,13 @@
   "navigation": [
     {
       "text": "建築",
-      "link": "/",
+      "link": "/arch/",
       "position": "left",
       "external": false
     },
     {
       "text": "平面",
-      "link": "/",
+      "link": "/平面/",
       "position": "left",
       "external": false
     },
